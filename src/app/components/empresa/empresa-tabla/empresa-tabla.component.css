@@ -1,0 +1,22 @@
+.tabla{
+    
+    padding-top: 5%;
+}
+
+.contain-btn-ingresar{
+  padding: 5%;
+}
+
+
+.tabla-plegable{
+  text-align: center;
+}
+
+.tabla-plegable th{
+  text-align: center;
+}
+.scroll-departamentos:hover{
+  
+  background-color:  #067dfc94;
+  
+}
